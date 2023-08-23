@@ -1,5 +1,0 @@
-{{durva-dutta}}
-Name: Durba Dutta
-Skills: HTML,CSS ,JS.
-Email: durvadutta111@gmail.com
-{{/durva-dutta}}
